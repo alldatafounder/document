@@ -10,7 +10,7 @@ AllData数据中台以数据平台为底座，以数据中台为桥梁，以机�
 
 <img width="1423" alt="image" src="https://github.com/alldatacenter/alldata/assets/20246692/d74d7986-73c3-4338-a0e2-3baf15d40a7b">
 
-### [官方文档](https://alldata.readthedocs.io) ｜ [安装文档](https://github.com/alldatacenter/alldata/blob/master/install.md)
+### [官方文档](https://alldata-document.readthedocs.io) ｜ [安装文档](https://github.com/alldatacenter/alldata/blob/master/install.md)
 
 ## 一、开源版功能列表
 ### AllData 1.0旧版架构
@@ -116,7 +116,7 @@ AllData数据中台以数据平台为底座，以数据中台为桥梁，以机�
 >
 > 7、开源版-会员价格可以查看价格文档: https://docs.qq.com/doc/DVEt2eUV0Q3hyZ3lz
 >
-> 8、官方文档：https://alldata.readthedocs.io
+> 8、官方文档：https://alldata-document.readthedocs.io
 >
 > 9、部署教程：https://github.com/alldatacenter/alldata/blob/master/install.md
 >
