@@ -74,11 +74,11 @@ https://docs.qq.com/doc/DVEt2eUV0Q3hyZ3lz
 <img width="1423" alt="image" src="https://github.com/alldatacenter/alldata/assets/20246692/189663b3-f9e2-4c83-b6fa-507dc19711a5">
 
 ## AllData 推荐 ｜ 技术社区
-<img width="1423" alt="image" src="https://github.com/alldatacenter/alldata/assets/20246692/5e510d0e-35c5-43b9-9d84-300e73b43679">
+<img width="1423" alt="image" src="https://github.com/user-attachments/assets/a1c3e3f8-ae13-405e-a347-80beef6573e6">
 
 ## AllData商业版
 
-<img width="1423" alt="image" src="https://github.com/user-attachments/assets/283ad992-ddf5-44ce-8965-b81e8117e772">
+<img width="1423" alt="image" src="https://github.com/user-attachments/assets/471ec36f-0ef0-42df-9b7e-08a1d38fe702">
 
 ## AllData架构设计
 <img width="1423" alt="image" src="https://github.com/user-attachments/assets/5f53da70-b000-4eef-a80f-600d6b05223a">
