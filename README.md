@@ -26,26 +26,16 @@ AllData商业版功能有8个菜单功能，其中菜单2-8为集成大数据组
 
 未来规划： 2024年12月底会发布目前已经集成的30个新的开源项目框架，敬请期待。
 
-1. 企业版-创始版会员价格可以查看价格文档：
-https://docs.qq.com/doc/DVG1udXdxdWF4VHRG
+1、企业版-创始版会员价格可以查看价格文档：https://docs.qq.com/doc/DVG1udXdxdWF4VHRG
 
-2. 企业版-尊贵会员价格可以查看价格文档：
-https://docs.qq.com/doc/DVEtIeVJ0ZlROdnJL
+2、企业版-尊贵版商业版价格可以查看价格文档：https://docs.qq.com/doc/DVEtIeVJ0ZlROdnJL
 
-3. 企业版-高级会员价格可以查看价格文档：
-https://docs.qq.com/doc/DVG9meHFCdFJCQU9I
+3、企业版-高级版商业版价格可以查看价格文档：https://docs.qq.com/doc/DVG9meHFCdFJCQU9I
 
-4. 企业版-部署版会员价格可以查看价格文档: 
-https://docs.qq.com/doc/DVE5ITllxcG1rV0JJ
+4、企业版-终身版商业版价格可以查看价格文档：https://docs.qq.com/doc/DVExLZHNwcmlxTXZx
 
-5. 企业版-全部会员价格汇总可以查看价格文档：
-https://docs.qq.com/doc/DVFZEQWhoaGxFSXR6
+5、企业版-全部商业版价格汇总可以查看海报：https://docs.qq.com/doc/DVFZEQWhoaGxFSXR6
 
-6. 基础版（个人版）-会员价格可以查看价格文档: 
-https://docs.qq.com/doc/DVG9Hc0haTFhjTUNs
-
-7. 开源版-会员价格可以查看价格文档: 
-https://docs.qq.com/doc/DVEt2eUV0Q3hyZ3lz
 ```
 
 ## [官方文档](https://alldata-document.readthedocs.io/) ｜ [安装文档](https://alldata-document.readthedocs.io/zh/latest/installDeploy/index.html)  |  [部署教程](https://github.com/alldatacenter/alldata/blob/master/install.md)  |  [数据集成文档](https://github.com/alldatacenter/alldata/blob/master/quickstart_dts.md)  |  [BI教程文档](https://github.com/alldatacenter/alldata/blob/master/quickstart_bi.md)
@@ -376,5 +366,3 @@ https://docs.qq.com/doc/DVEt2eUV0Q3hyZ3lz
 <img width="1409" alt="image" src="https://github.com/alldatacenter/alldata/assets/20246692/5175a50f-c6cb-4fc1-a40c-ba8a5745f26d">
 
 <img width="1265" alt="image" src="https://github.com/alldatacenter/alldata/assets/20246692/92e4ba6b-ee6e-4d54-93b9-28d3af509564">
-
- 

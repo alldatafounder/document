@@ -70,27 +70,15 @@ AllData数据中台以数据平台为底座，以数据中台为桥梁，以机�
 
 
 ## 四、会员商业版
-### 4.2、商业版价格 & 个人版价格 & 开源版价格
+### 4.1、商业版价格
 
 > 1、企业版-创始版会员价格可以查看价格文档：https://docs.qq.com/doc/DVG1udXdxdWF4VHRG
 >
-> 2、企业版-新版尊贵会员价格可以查看价格文档：https://docs.qq.com/doc/DVEtIeVJ0ZlROdnJL
+> 2、企业版-尊贵版商业版价格可以查看价格文档：https://docs.qq.com/doc/DVEtIeVJ0ZlROdnJL
 >
-> 3、企业版-新版高级会员价格可以查看价格文档：https://docs.qq.com/doc/DVG9meHFCdFJCQU9I
+> 3、企业版-高级版商业版价格可以查看价格文档：https://docs.qq.com/doc/DVG9meHFCdFJCQU9I
 >
-> 4、企业版-新版终身会员价格可以查看价格文档：https://docs.qq.com/doc/DVExLZHNwcmlxTXZx
+> 4、企业版-终身版商业版价格可以查看价格文档：https://docs.qq.com/doc/DVExLZHNwcmlxTXZx
 >
-> 5、企业版-全部会员价格汇总可以查看海报：https://docs.qq.com/doc/DVFZEQWhoaGxFSXR6
-> 
-> 6、个人版-会员价格可以查看价格文档: https://docs.qq.com/doc/DVG9Hc0haTFhjTUNs
->
-> 7、开源版-会员价格可以查看价格文档: https://docs.qq.com/doc/DVEt2eUV0Q3hyZ3lz
->
-> 8、官方文档：https://alldata-document.readthedocs.io
->
-> 9、部署教程：https://github.com/alldatacenter/alldata/blob/master/install.md
->
-> 10、数据集成文档：https://github.com/alldatacenter/alldata/blob/master/quickstart_dts.md
->
-> 11、BI教程文档: https://github.com/alldatacenter/alldata/blob/master/quickstart_bi.md
+> 5、企业版-全部商业版价格汇总可以查看海报：https://docs.qq.com/doc/DVFZEQWhoaGxFSXR6
 >
