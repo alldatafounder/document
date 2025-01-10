@@ -6,6 +6,16 @@ AllData数据中台以数据平台为底座，以数据中台为桥梁，以机�
 
 AllData以大模型应用为上游产品，提供全链路数字化解决方案。
 
+奥零数据&AllData公司官网：http://www.aolingdata.com
+
+奥零数据&AllData开源项目：https://github.com/alldatacenter/alldata
+
+奥零数据&AllData官方文档：https://alldata-document.readthedocs.io
+
+奥零数据&AllData社区文档：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+
+开源项目地址：https://github.com/alldatacenter/alldata/blob/master/README.md
+
 AllData商业版功能有11个菜单功能，其中菜单2-8为集成大数据组件案例模版，2024年12月底会发布目前已经集成的30个新的开源项目框架。
 
 菜单1. AllData(Moat主应用)，包含系统管理、数据集成，数据治理，报表分析，数据比对，数据集群，K8S集群。
