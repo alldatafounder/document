@@ -6,9 +6,9 @@ AllData数据中台以数据平台为底座，以数据中台为桥梁，以机�
 
 AllData以大模型应用为上游产品，提供全链路数字化解决方案。
 
-AllData商业版功能有8个菜单功能，其中菜单2-8为集成大数据组件案例模版，2024年12月底会发布目前已经集成的30个新的开源项目框架。
+AllData商业版功能有11个菜单功能，其中菜单2-8为集成大数据组件案例模版，2024年12月底会发布目前已经集成的30个新的开源项目框架。
 
-菜单1. AllData数据中台菜单，包括数据集成功能，数据质量功能，数据标准功能，元数据管理功能，数据资产功能，数据服务功能，数据比对功能，BI报表功能，流程编排功能，系统管理功能，系统监控功能，运维管理功能。
+菜单1. AllData(Moat主应用)，包含系统管理、数据集成，数据治理，报表分析，数据比对，数据集群，K8S集群。
 
 菜单2. AllData数据平台菜单，集成开源DataSophon项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
 
@@ -24,17 +24,15 @@ AllData商业版功能有8个菜单功能，其中菜单2-8为集成大数据组
 
 菜单8. AllDataBI平台菜单，集成开源Datart项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
 
+菜单9. AllData元数据管理平台菜单，集成开源OpenMetaData项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
+
+菜单10. AllData指标体系平台菜单，集成开源SuperSonic项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
+
+菜单11. AllData数据集成平台菜单，集成开源Tis项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
+
 未来规划： 2024年12月底会发布目前已经集成的30个新的开源项目框架，敬请期待。
 
-1、企业版-创始版会员价格可以查看价格文档：https://docs.qq.com/doc/DVG1udXdxdWF4VHRG
-
-2、企业版-尊贵版商业版价格可以查看价格文档：https://docs.qq.com/doc/DVEtIeVJ0ZlROdnJL
-
-3、企业版-高级版商业版价格可以查看价格文档：https://docs.qq.com/doc/DVG9meHFCdFJCQU9I
-
-4、企业版-终身版商业版价格可以查看价格文档：https://docs.qq.com/doc/DVExLZHNwcmlxTXZx
-
-5、企业版-全部商业版价格汇总可以查看海报：https://docs.qq.com/doc/DVFZEQWhoaGxFSXR6
+企业版-全部商业版价格汇总可以查看海报：https://docs.qq.com/sheet/DYnZweWVickdLQmd5
 
 ```
 
@@ -66,16 +64,10 @@ AllData商业版功能有8个菜单功能，其中菜单2-8为集成大数据组
 ## AllData 推荐 ｜ 技术社区
 <img width="1423" alt="image" src="https://github.com/user-attachments/assets/a1c3e3f8-ae13-405e-a347-80beef6573e6">
 
-## AllData商业版
-
-<img width="1423" alt="image" src="https://github.com/user-attachments/assets/471ec36f-0ef0-42df-9b7e-08a1d38fe702">
-
 ## AllData架构设计
 <img width="1423" alt="image" src="https://github.com/user-attachments/assets/5f53da70-b000-4eef-a80f-600d6b05223a">
 
-
 ## 一、推荐 ｜ AllData数据中台开源项目
-
 <br/>
 <a href="https://github.com/alldatacenter/github-readme-stats">
   <img width="1020" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alldatacenter&repo=alldata" />
