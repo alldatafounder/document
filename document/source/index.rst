@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-AllData数据中台文档 v0.5.2
+AllData数据中台文档 v0.6.x
 ===================================
 
 .. toctree::
