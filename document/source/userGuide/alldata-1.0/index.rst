@@ -13,5 +13,4 @@ AllData[1.0架构创始版]
    service-market
    service-compare
    service-bi
-   service-workflow
    service-backend
