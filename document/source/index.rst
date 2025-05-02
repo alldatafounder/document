@@ -10,8 +10,9 @@ AllData数据中台文档 v0.6.x
    :maxdepth: 1
 
    README
-   installDeploy/index
-   userGuide/index
-   meetup/index
+   install_deploy/index
+   user_guide/index
+   wiki/index
    plan/index
-   membership/index
+   user_group/index
+   commercial_edition/index
