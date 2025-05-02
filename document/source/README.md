@@ -1,7 +1,6 @@
 # AllData数据中台
 
-## [官方文档](https://alldata-document.readthedocs.io) ｜ [安装文档](https://alldata-document.readthedocs.io/zh/latest/installDeploy/index.html) ｜ [部署教程](https://github.com/alldatacenter/alldata/blob/master/install/install.md)
-
+## [官方文档](https://alldata-document.readthedocs.io) ｜ [安装文档](https://alldata-document.readthedocs.io/zh/latest/install_deploy/index.html) ｜ [部署教程](https://github.com/alldatacenter/alldata/blob/master/install/install.md)
 
 ## 一、数据中台基础功能 & 亲测好用系列教程
 #### [数据集成能力演示: https://mp.weixin.qq.com/s/GcFeLwyMfaGHnQ02rD97lw](https://mp.weixin.qq.com/s/GcFeLwyMfaGHnQ02rD97lw)
