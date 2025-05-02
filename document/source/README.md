@@ -2,6 +2,7 @@
 
 ## [官方文档](https://alldata-document.readthedocs.io) ｜ [安装文档](https://alldata-document.readthedocs.io/zh/latest/installDeploy/index.html) ｜ [部署教程](https://github.com/alldatacenter/alldata/blob/master/install/install.md)
 
+
 ## 一、数据中台基础功能 & 亲测好用系列教程
 #### [数据集成能力演示: https://mp.weixin.qq.com/s/GcFeLwyMfaGHnQ02rD97lw](https://mp.weixin.qq.com/s/GcFeLwyMfaGHnQ02rD97lw)
 #### [数据模型管理能力演示: https://mp.weixin.qq.com/s/lKN171nK6z6OYb_80JwuYg](https://mp.weixin.qq.com/s/lKN171nK6z6OYb_80JwuYg)
@@ -105,31 +106,31 @@ AllData以大模型应用为上游产品，提供全链路数字化解决方案�
 
 功能23. 湖仓一体化平台，集成开源Kyuubi项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
 
-功能24. 实时开发系统【发布后源码交付】
+功能24. 湖仓平台中心，集成开源Amoro项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
 
-功能25. 离线调度平台【发布后源码交付】
+功能25. 实时开发系统【商业版交付】
 
-功能26. 数仓建模平台【发布后源码交付】
+功能26. 离线调度平台【发布后源码交付】
 
-功能27. 数据安全平台【发布后源码交付】
+功能27. 数仓建模平台【发布后源码交付】
 
-功能28. 机器学习算法平台【发布后源码交付】
+功能28. 数据安全平台【发布后源码交付】
 
-功能29. 大模型应用开发平台【发布后源码交付】
+功能29. 机器学习算法平台，集成开源Cube-Studio项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
 
-功能30. 可视化分析平台【发布后源码交付】
+功能30. 大模型应用开发平台【发布后源码交付】
 
-功能31. 元数据治理平台【发布后源码交付】
+功能31. 可视化分析平台【发布后源码交付】
 
-功能32. 主数据管理平台【发布后源码交付】
+功能32. 元数据治理平台【发布后源码交付】
 
-功能33. 数据资产平台【发布后源码交付】
+功能33. 主数据管理平台【发布后源码交付】
 
-功能34. 信创一体化平台【发布后源码交付】
+功能34. 数据资产平台【发布后源码交付】
 
-功能35. 国产数据库一体化平台【发布后源码交付】
+功能35. 信创一体化平台【发布后源码交付】
 
-商业版价格文档：https://docs.qq.com/sheet/DYnZweWVickdLQmd5
+功能36. 国产数据库一体化平台【发布后源码交付】
 
 ```
 
