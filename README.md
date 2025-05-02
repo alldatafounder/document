@@ -2,17 +2,24 @@
 
 ## [官方文档](https://alldata-document.readthedocs.io) ｜ [安装文档](https://alldata-document.readthedocs.io/zh/latest/installDeploy/index.html) ｜ [部署教程](https://github.com/alldatacenter/alldata/blob/master/install/install.md)
 
-## 数据中台核心功能 & 亲测好用系列教程
+
+## 一、数据中台基础功能 & 亲测好用系列教程
 #### [数据集成能力演示: https://mp.weixin.qq.com/s/GcFeLwyMfaGHnQ02rD97lw](https://mp.weixin.qq.com/s/GcFeLwyMfaGHnQ02rD97lw)
 #### [数据模型管理能力演示: https://mp.weixin.qq.com/s/lKN171nK6z6OYb_80JwuYg](https://mp.weixin.qq.com/s/lKN171nK6z6OYb_80JwuYg)
 #### [元数据管理能力演示: https://mp.weixin.qq.com/s/39TMa1BB_NxsxRbBYQtnpg](https://mp.weixin.qq.com/s/39TMa1BB_NxsxRbBYQtnpg)
-#### [数据集成平台能力演示: https://mp.weixin.qq.com/s/5IbEnLCEhNPz6cM2E7K2XQ](https://mp.weixin.qq.com/s/5IbEnLCEhNPz6cM2E7K2XQ)
 #### [数仓查询中心能力演示: https://mp.weixin.qq.com/s/6vt9_VGFV9PM7DsE-cgQlw](https://mp.weixin.qq.com/s/6vt9_VGFV9PM7DsE-cgQlw)
+#### [数据标准管理能力演示: https://mp.weixin.qq.com/s/IgGOJ47KcE2vwmNwHiRJbg](https://mp.weixin.qq.com/s/IgGOJ47KcE2vwmNwHiRJbg)
+#### [数据比对管理能力演示: https://mp.weixin.qq.com/s/hoHpAB7J_D0ykGxrUCnjeQ](https://mp.weixin.qq.com/s/hoHpAB7J_D0ykGxrUCnjeQ)
+#### [数据安全管理能力演示: https://mp.weixin.qq.com/s/n6EM7IyEszyOWXW9heSpAA](https://mp.weixin.qq.com/s/n6EM7IyEszyOWXW9heSpAA)
+#### [数据质量管理能力演示: https://mp.weixin.qq.com/s/IVTUBbaU400v6UPbKy3YkA](https://mp.weixin.qq.com/s/IVTUBbaU400v6UPbKy3YkA)
+#### [数据服务管理能力演示: https://mp.weixin.qq.com/s/k8Dc-SwYS4b1jyRx6q_idQ](https://mp.weixin.qq.com/s/k8Dc-SwYS4b1jyRx6q_idQ)
+#### [BI报表能力演示: https://mp.weixin.qq.com/s/8Xy9gemwmuOzChgBlWhpqQ](https://mp.weixin.qq.com/s/8Xy9gemwmuOzChgBlWhpqQ)
+#### [系统管理能力演示: https://mp.weixin.qq.com/s/uiqZHO4quZZrR8gS6xQC9w](https://mp.weixin.qq.com/s/uiqZHO4quZZrR8gS6xQC9w)
 
-## 数据中台高级功能 & 正式发布上线体验
+## 二、数据中台高级功能 & 正式发布上线体验
 #### [数据中台: https://mp.weixin.qq.com/s/CdLz0NLI-CC1inwUdB84Nw](https://mp.weixin.qq.com/s/CdLz0NLI-CC1inwUdB84Nw)
 #### [数据平台: https://mp.weixin.qq.com/s/kcoebHp0Y8X-JQITSdnbQw](https://mp.weixin.qq.com/s/kcoebHp0Y8X-JQITSdnbQw)
-#### [K8S数据平台: https://mp.weixin.qq.com/s/OShOCevGuRJlIHYrAlD43g](https://mp.weixin.qq.com/s/OShOCevGuRJlIHYrAlD43g)
+#### [K8S数据平台: https://mp.weixin.qq.com/s/kkOkjy0yhqw96siSUS_XVA](https://mp.weixin.qq.com/s/kkOkjy0yhqw96siSUS_XVA)
 #### [实时开发平台: https://mp.weixin.qq.com/s/DZjmJ6f5D0uLI1qhvrYSIw](https://mp.weixin.qq.com/s/DZjmJ6f5D0uLI1qhvrYSIw)
 #### [实时开发IDE: https://mp.weixin.qq.com/s/j6-CD1_gKwp68gR2wRCPCA](https://mp.weixin.qq.com/s/j6-CD1_gKwp68gR2wRCPCA)
 #### [离线开发平台: https://mp.weixin.qq.com/s/VNhBwanN5PWN1oM2YXkGlg](https://mp.weixin.qq.com/s/VNhBwanN5PWN1oM2YXkGlg)
@@ -24,6 +31,14 @@
 #### [数据同步平台: https://mp.weixin.qq.com/s/SRQrN3_NIlKWsgNpeFXW8Q](https://mp.weixin.qq.com/s/SRQrN3_NIlKWsgNpeFXW8Q)
 #### [数据湖平台: https://mp.weixin.qq.com/s/qN9jRDK8ulB_uWZx4OF7iA](https://mp.weixin.qq.com/s/qN9jRDK8ulB_uWZx4OF7iA)
 #### [湖仓一体化平台: https://mp.weixin.qq.com/s/Z4VEXm6WPiE7to1VbY_URA](https://mp.weixin.qq.com/s/Z4VEXm6WPiE7to1VbY_URA)
+#### [湖仓平台中心: https://mp.weixin.qq.com/s/MpeoQ274fRvYkEtPQBrrwg](https://mp.weixin.qq.com/s/MpeoQ274fRvYkEtPQBrrwg)
+#### [机器学习算法平台: https://mp.weixin.qq.com/s/RhIR9XwjHlpfQ83Q-cV8Wg](https://mp.weixin.qq.com/s/RhIR9XwjHlpfQ83Q-cV8Wg)
+
+## 三、数据中台基础功能 VS 高级功能 & 能力比对系列
+#### [元数据管理 VS 元数据管理平台: https://mp.weixin.qq.com/s/0Ok6KfG0uRN9xJzsNAMZJQ](https://mp.weixin.qq.com/s/0Ok6KfG0uRN9xJzsNAMZJQ)
+#### [BI报表管理 VS BI可视化平台: https://mp.weixin.qq.com/s/g3McZ-u6JOQf3rM2dbuRqw](https://mp.weixin.qq.com/s/g3McZ-u6JOQf3rM2dbuRqw)
+#### [数据集成管理 VS 数据集成平台 VS 数据同步平台: https://mp.weixin.qq.com/s/jdnfrlc8_QQjx2F-yarFgA](https://mp.weixin.qq.com/s/jdnfrlc8_QQjx2F-yarFgA)
+#### [数据质量管理 VS 数据质量平台: https://mp.weixin.qq.com/s/td7FA6PsWdfcWHxI5nhcEA](https://mp.weixin.qq.com/s/td7FA6PsWdfcWHxI5nhcEA)
 
 ## AllData数据中台商业版 & 大数据组件案例模版
 ```
