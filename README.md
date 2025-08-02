@@ -139,21 +139,8 @@
 ## AllData架构设计
 <img width="1400" alt="image" src="https://github.com/user-attachments/assets/befa64c2-c40c-40ee-9dae-a626dab03923">
 
-## 开源版 VS 商业版
-<img width="1400" alt="image" src="https://github.com/user-attachments/assets/a9f6b9a0-d466-4244-8344-fa90d35913fd">
-
-## AllData开源技术群
-<img width="1400" alt="image" src="https://github.com/user-attachments/assets/ddfb0c08-618c-4add-ac38-1e5fae462c81">
-
-## AllData视频号
-<img width="1400" alt="image" src="https://github.com/alldatacenter/alldata/assets/20246692/c809b131-4b5f-4e60-ab26-81930665fc3b">
-
-## AllData公众号
-<img width="1400" alt="image" src="https://github.com/alldatacenter/alldata/assets/20246692/7d4312a3-1904-404d-a0ed-f36b14e7c02d">
-
 ## AllData技术社区
-<img width="1400" alt="image" src="https://github.com/user-attachments/assets/a1c3e3f8-ae13-405e-a347-80beef6573e6">
-
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/47699b0d-3d7f-4f78-b900-2a05ea4161c6">
 
 ## AllData数据中台正式线上环境(仅演示部分功能与截图)
 
@@ -379,4 +366,5 @@
 ![image](https://github.com/user-attachments/assets/3c063ee3-e2c9-4225-bc1a-0b12c1447431)
 ![image](https://github.com/user-attachments/assets/019c4f60-0816-4904-ad4c-622f36039643)
 ![image](https://github.com/user-attachments/assets/d2b90680-a7fa-4e51-b0dc-e2eb88d526e3)
+
 ![image](https://github.com/user-attachments/assets/27ef983d-83bd-46d2-b4f4-99903bdf15e1)
