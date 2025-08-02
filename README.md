@@ -140,7 +140,7 @@
 <img width="1400" alt="image" src="https://github.com/user-attachments/assets/14a4290f-0432-47e3-8f0d-9bc84dffa1c2">
 
 ## AllData技术社区
-<img width="1400" alt="image" src="https://github.com/user-attachments/assets/47699b0d-3d7f-4f78-b900-2a05ea4161c6">
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/aa5c0ebe-1be6-4ae2-9ca2-a35327095512">
 
 ## AllData数据中台正式线上环境(仅演示部分功能与截图)
 
@@ -368,4 +368,5 @@
 ![image](https://github.com/user-attachments/assets/d2b90680-a7fa-4e51-b0dc-e2eb88d526e3)
 
 ![image](https://github.com/user-attachments/assets/27ef983d-83bd-46d2-b4f4-99903bdf15e1)
+
 
