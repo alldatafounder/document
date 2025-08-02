@@ -137,10 +137,11 @@
 <img width="1400" src="https://starchart.cc/alldatacenter/alldata.svg" />
 
 ## AllData架构设计
-<img width="1400" alt="image" src="https://github.com/user-attachments/assets/14a4290f-0432-47e3-8f0d-9bc84dffa1c2">
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/3a9822bb-3a3a-4e0a-bb90-3b61865cf588">
 
-## AllData技术社区
-<img width="1400" alt="image" src="https://github.com/user-attachments/assets/aa5c0ebe-1be6-4ae2-9ca2-a35327095512">
+## AllData技术社区 
+
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/f91804db-9e45-4b22-958f-563bc6b9b578">
 
 ## AllData数据中台正式线上环境(仅演示部分功能与截图)
 
@@ -368,5 +369,6 @@
 ![image](https://github.com/user-attachments/assets/d2b90680-a7fa-4e51-b0dc-e2eb88d526e3)
 
 ![image](https://github.com/user-attachments/assets/27ef983d-83bd-46d2-b4f4-99903bdf15e1)
+
 
 
