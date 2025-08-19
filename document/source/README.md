@@ -104,13 +104,13 @@
 
 功能27. 数据治理平台-元数据管理平台，集成开源OpenMetaData项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
 
-功能28. 数据安全平台，发布后提供源码。
+功能28. 数据治理平台-元数据开发平台，发布后提供源码。
 
-功能29. 数据共享平台-数据服务平台，包含接口市场管理，接口日志管理，接口数据脱敏，第三方接口注册，第三方接口调用日志等功能。
+功能29. 数据安全平台，发布后提供源码。
 
-功能30. 数据共享平台-API共享平台，集成开源SqlRest项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
+功能30. 数据共享平台-数据服务平台，包含接口市场管理，接口日志管理，接口数据脱敏，第三方接口注册，第三方接口调用日志等功能。
 
-功能31. 数据可视化平台-BI报表管理，包含数据分析，可视化图表，可视化大屏，可视化仪表盘等功能。
+功能31. 数据共享平台-API共享平台，集成开源SqlRest项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
 
 功能32. 数据可视化平台-BI可视化平台，集成开源Datart项目，引入开源项目，保留License协议和Notice声明，以及必要的二次开发。
 
@@ -136,8 +136,12 @@
 
 <img width="1400" src="https://starchart.cc/alldatacenter/alldata.svg" />
 
-## AllData架构设计
-<img width="1400" alt="image" src="https://github.com/user-attachments/assets/01959b61-c5d4-4208-890f-db80d2cab613">
+## AllData操作流程图
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/c9bfa4e6-9196-4341-97e9-d3d652ac811e">
+
+## AllData架构设计图
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/a13d2118-896a-4111-958c-3deb903c1f48">
+
 
 ## AllData技术社区 
 
@@ -254,14 +258,6 @@
 ![12、进入数据服务详情](https://github.com/user-attachments/assets/7fbf927a-9e42-4716-a3f6-a4f4c5f63638)
 ![19、第三方服务详情](https://github.com/user-attachments/assets/67749814-d674-4788-ac40-7505f23886a9)
 
-
-## 数据可视化平台：BI报表管理
-
-![image](https://github.com/user-attachments/assets/746d3b47-31a5-4af6-acbe-1e6650fac502)
-![image](https://github.com/user-attachments/assets/1d633473-a132-42ef-bd61-bf3f12be12da)
-![image](https://github.com/user-attachments/assets/8e28201a-1763-4d80-bab7-f7a02202489d)
-![image](https://github.com/user-attachments/assets/9f20aba6-66e3-45cb-8e39-64aaeb28ef4c)
-![12、可视化仪表盘编辑](https://github.com/user-attachments/assets/6024894f-eb9d-4d1e-adcb-65fc03b065c1)
 
 ## 数据可视化平台: BI可视化平台
 
