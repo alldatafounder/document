@@ -128,8 +128,10 @@ npm run build
 访问：http://localhost:8013 账号密码：admin/123456
 
 
-### 8、启动SystemService项目，本地运行时eureka配置处，改成localhost。及其他项目同理。
+### 8、启动基础服务
+
 ```
+举例启动 - SystemService项目，本地运行时eureka配置处，改成localhost。及其他项目同理
 系统管理 - system-service-parent ~ system-service ~ SystemServiceApplication
 数据集成 - service-data-dts-parent ~ service-data-dts ~ DataDtsServiceApplication
 元数据管理 - data-metadata-service-parent ~ data-metadata-service ~ DataxMetadataApplication

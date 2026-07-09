@@ -1,4 +1,4 @@
-# 产品手册
+# AllData可定义数据中台
 
 ### [AllData数据中台 & 杭州奥零数据科技 - 官方网站](http://www.aolingdata.com)
 ### [AllData数据中台 & 杭州奥零数据科技 - 产品手册](https://www.yuque.com/aolingdata/product)
