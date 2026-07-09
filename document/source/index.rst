@@ -9,7 +9,7 @@
 .. figure:: ./assets/project.png
   :width: 100%
   :align: center
-  :alt: logo
+  :alt: project
 
 👋  欢迎来到AllData数据中台产品工作空间，请联系市场总监获取体验帐号。
 如果需要加入开源社群+商业版产品演示+商业版报价采购，请联系我们市场同事以及公司负责人。
