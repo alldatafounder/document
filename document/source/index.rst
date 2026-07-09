@@ -1,4 +1,4 @@
-Welcome to AllData可定义数据中台
+欢迎来到AllData可定义数据中台
 =========================
 
 .. figure:: ./assets/logo.png
@@ -6,7 +6,7 @@ Welcome to AllData可定义数据中台
   :align: center
   :alt: logo
 
-.. figure:: ./assets/project.jpg
+.. figure:: ./assets/project.png
   :width: 100%
   :align: center
   :alt: logo
