@@ -6,7 +6,7 @@ Welcome to AllData可定义数据中台
   :align: center
   :alt: logo
 
-.. figure:: ./assets/product.jpg
+.. figure:: ./assets/project.jpg
   :width: 100%
   :align: center
   :alt: logo
