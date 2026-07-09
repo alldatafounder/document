@@ -8,7 +8,7 @@
 
 project = 'AllData'
 copyright = '2023, AllDataDC'
-author = 'AllDataDC'
+author = '杭州奥零数据科技'
 release = '0.6.x'
 
 # -- General configuration ---------------------------------------------------
