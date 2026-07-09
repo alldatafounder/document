@@ -1,7 +1,7 @@
-AllData社区 x Datavines x Datart
+2026-Community-Meetup
 =================================
  
 .. toctree::
    :maxdepth: 2
    
-   2024-Community-Meetup.md
+   2026-Community-Meetup.md
