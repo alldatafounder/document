@@ -35,24 +35,29 @@ Documentation
 .. toctree::
   :maxdepth: 1
   :caption: 快速开始
+
   installDeploy/index
 
 .. toctree::
   :maxdepth: 3
   :caption: 产品演示
+
   document/index
 
 .. toctree::
   :maxdepth: 3
   :caption: 功能手册
+
   userGuide/index
 
 .. toctree::
   :maxdepth: 3
   :caption: 社区共建
+
   meetup/index
 
 .. toctree::
   :maxdepth: 3
   :caption: 新版本发布
+  
   plan/index
